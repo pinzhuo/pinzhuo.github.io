@@ -1,0 +1,40 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Tian Pinzhuo
+
+~~~
+{}{img_left}{photos/pinzhuo.jpg}{alt text}{131}{160}
+田品卓 \n
+Working on Ph.D. degree \n
+Department of Computer Science and Technology \n
+Nanjing University \n
+E-mail: /tianpinzhuo/ \[@\] gmail \[DOT\] com
+~~~
+
+== About me
+I'm interested in machine learning. Recently, I mainly focus on how to use meta-learning or transfer learning to design efficient algorithms.
+These algorithms are supposed to learn useful knowledge with a few training data or under some limitations.
+I'm supervised by [https://cs.nju.edu.cn/rl/ Prof. Gao Yang].
+
+== News
+- One paper is accepted by FCS!
+- One paper is accepted by TNNLS!
+
+== Publications
+=== Journal
+. *Pinzhuo Tian*, Wenbin Li, YangGao, \"/Consistent Meta Regularization for Better Meta-knowledge in Few-shot Learning/ \",~~TNNLS 21,~~(to appear).
+. *Pinzhuo Tian*, YangGao, \"/Improving Meta-Learning Model via Meta-contrastive Loss/ \",~~Frontiers of Computer Science (FCS) 21,~~(to appear).
+
+
+
+=== Conference
+. *Pinzhuo Tian*, Lei Qi, Shaokang Dong, Yinghua She, YangGao, \"/Consistent MetaReg: Alleviating Intra-task Discrepancy for Better Meta-knowledge/ \",~~IJCAI 20,~~\[[https://www.ijcai.org/proceedings/2020/0377.pdf PDF]\].
+. *Pinzhuo Tian*, Zhangkai Wu, Lei Qi, Lei Wang, Yinghuan Shi, Yang Gao, \"/
+Differentiable Meta-Learning Model for Few-Shot Semantic Segmentation/ \",~~AAAI 20,~~\[[https://ojs.aaai.org//index.php/AAAI/article/view/6887 PDF]\].
+. *Pinzhuo Tian*, Lei Qi, Yinghuan Shi, Luping Zhou, Yang Gao, Dinggang Shen, \" /
+A Novel Image-Specific Transfer Approach for Prostate Segmentation in MR Images/ \",~~ICASSP 18~~\[[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461716 PDF]\].
+
+== Awards
+- xx
+
+
+
