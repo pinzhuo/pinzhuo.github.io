@@ -16,14 +16,16 @@ I received my Ph.D. degree from Nanjing University in 2021, supervised by Prof.
 I'm interested in machine learning. Recently, I mainly focus on how to use meta-learning or transfer learning to design efficient and robust supervised leanring or reinforcement learning algorithms. These algorithms are supposed to be applied into some real world applications.
 
 == News
-- \[2021.11\] Join Shanghai University
+- 欢迎确定2023年上海大学研究生名额的同学联系
+- One co-author paper about MARL was accepted by PRICAI 22
 
 == Publications
 === Journal
-. *Pinzhuo Tian*, Wenbin Li, YangGao, \"/Consistent Meta Regularization for Better Meta-knowledge in Few-shot Learning/ \",~~TNNLS 21,~~(to appear). CCF-B, JCR1区
-. *Pinzhuo Tian*, YangGao, \"/Improving Meta-Learning Model via Meta-contrastive Loss/ \",~~Frontiers of Computer Science (FCS) 21,~~(to appear). CCF-C, JCR2区
+. *Pinzhuo Tian*, Wenbin Li, YangGao, \"/Consistent Meta Regularization for Better Meta-knowledge in Few-shot Learning/ \",~~TNNLS 21, CCF-B, 中科院1区
+. *Pinzhuo Tian*, YangGao, \"/Improving Meta-Learning Model via Meta-contrastive Loss/ \",~~Frontiers of Computer Science (FCS) 21, CCF-C, 中科院2区
 
 === Conference
+. Chao Li, Yujing Hu, *Pinzhuo Tian*, Shaokang Dong, and Yang Gao, \" /DDMA: Discrepancy-Driven Multi-Agent Reinforcement Learning/ \", PRICAI 22. CCF-C
 . *Pinzhuo Tian*, Lei Qi, Shaokang Dong, Yinghua She, YangGao, \"/Consistent MetaReg: Alleviating Intra-task Discrepancy for Better Meta-knowledge/ \", IJCAI 20. CCF- A
 . *Pinzhuo Tian*, Zhangkai Wu, Lei Qi, Lei Wang, Yinghuan Shi, Yang Gao, \"/
 Differentiable Meta-Learning Model for Few-Shot Semantic Segmentation/ \", AAAI20. CCF-A
