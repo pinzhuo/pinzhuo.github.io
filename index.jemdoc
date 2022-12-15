@@ -1,8 +1,8 @@
-# jemdoc: menu{MENU}{index.html}, nofooter  
-==Tian Pinzhuo
+# jemdoc: {index.html}, nofooter  
+==Pinzhuo Tian
 
 ~~~
-{}{img_left}{photos/pinzhuo.jpg}{alt text}{131}{160}
+{}{img_left}{photos/pinzhuo.jpg}{alt text}{160}{160}
 田品卓 \n
 lecturer \n
 School of Computer Engineering and Science \n
@@ -15,28 +15,31 @@ I received my Ph.D. degree from Nanjing University in 2021, supervised by Prof.
 [https://cs.nju.edu.cn/rl/index.htm Gao Yang].
 I'm interested in machine learning. Recently, I mainly focus on how to use meta-learning or transfer learning to design efficient and robust supervised leanring or reinforcement learning algorithms. These algorithms are supposed to be applied into some real world applications.
 
+田品卓老师博士毕业于南京大学软件新技术国家重点实验室，目前主要从事于机器学习、人工智能方向研究，主要围绕如何利用元学习、迁移学习等方法构建更为高效、可靠的学习模型，使其适用于复杂、开放的现实环境。田品卓老师目前在AAAI、IJCAI，TCYB、TNNLS、TMM等机器学习、人工智能著名学术会议和期刊上发表文章十篇，并担任CVPR、ICCV，AAAI、TNNLS等国际会议期刊审稿人，曾获得南京市人工智能产业人才“兴智计划”资助，AAAI20学生旅行奖，CGCKD2022优秀学生论文，并在IJCAI-YES、ACCV上进行学术报告。
+
 == News
-- 欢迎确定2023年上海大学研究生名额的同学联系
-- One co-author paper about MARL was accepted by PRICAI 22
+- 招收研究生，题组优势：紧跟最新前沿技术；会和学生进行良性互动，经常讨论idea和指导，氛围轻松；有机器学习方面的实战项目以提升动手实践能力
+- \[22.12\] 联合南京大学计算机科学与技术系 [https://cs.nju.edu.cn/liwenbin/index.htm 李文斌]老师和人工智能学院 [http://www.lamda.nju.edu.cn/yehj/ 叶翰嘉]老师在ACCV22上组织关于 [https://www.accv2022.org/en/TUTORIALS.html few-shot learning] 的tutorial!
+- \[22.12\] One paper was accepted by IEEE Transactions on Cybernetics (TCYB)，1区，CCF-B类期刊！
+- \[22.11\] One paper was accepted by AAAI-23, CCF-A类会议！
+- \[22.11\] One paper was accepted by IEEE Transactions on Multimedia (TMM), 1区，CCF-B类期刊！
+- \[22.08\] 中文文章被CGCKD2022录用，并获优秀学生论文奖！
+- \[22.06\] One paper was accepted by PRICAI 22!
 
 == Publications
-=== Journal
-. *Pinzhuo Tian*, Wenbin Li, YangGao, \"/Consistent Meta Regularization for Better Meta-knowledge in Few-shot Learning/ \",~~TNNLS 21, CCF-B, 中科院1区
-. *Pinzhuo Tian*, YangGao, \"/Improving Meta-Learning Model via Meta-contrastive Loss/ \",~~Frontiers of Computer Science (FCS) 21, CCF-C, 中科院2区
-
-=== Conference
-. Chao Li, Yujing Hu, *Pinzhuo Tian*, Shaokang Dong, and Yang Gao, \" /DDMA: Discrepancy-Driven Multi-Agent Reinforcement Learning/ \", PRICAI 22. CCF-C
-. *Pinzhuo Tian*, Lei Qi, Shaokang Dong, Yinghua She, YangGao, \"/Consistent MetaReg: Alleviating Intra-task Discrepancy for Better Meta-knowledge/ \", IJCAI 20. CCF- A
+. Zhenxing Ge, Shangdong Yang, *Pinzhuo Tian*, Zixuan Chen, Yang Gao, \" /Modeling Rationality: Towards Better Performance Against Unknown Agents in Sequential Games\" /, IEEE Transactions on Cybernetics (TCYB), 2022, CCF-B, 1区
+. Linjian Meng, Zhenxing Ge, *Pinzhuo Tian*, Bo An, Yang Gao, \" /Deep FTRL-ORW: An Efficient Deep Reinforcement Learning Algorithm for Solving Imperfect Information Extensive-Form Games\" /. AAAI-23,  CCF-A
+. *Pinzhuo Tian*, Shaorong Xie, \" /An Adversarial Meta-training Framework for Cross-domain Few-Shot Learning\" /, IEEE Transactions on Multimedia (TMM), 2022, CCF-B, 1区
+. Zhenxing Ge, Shuai Xiang, *Pinzhuo Tian*, Yang Gao, \"/基于深度强化学习的惯蛋扑克博弈求解/ \", CGCKD2022, 优秀学生论文奖
+. Chao Li, Yujing Hu, *Pinzhuo Tian*, Shaokang Dong, and Yang Gao, \" /DDMA: Discrepancy-Driven Multi-Agent Reinforcement Learning/ \", PRICAI 22, CCF-C
+. *Pinzhuo Tian*, Wenbin Li, YangGao, \"/Consistent Meta Regularization for Better Meta-knowledge in Few-shot Learning/ \", IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2021, CCF-B, 1区
+. *Pinzhuo Tian*, YangGao, \"/Improving Meta-Learning Model via Meta-contrastive Loss/ \", Frontiers of Computer Science (FCS), 2021, CCF-C, 2区
+. *Pinzhuo Tian*, Lei Qi, Shaokang Dong, Yinghua She, YangGao, \"/Consistent MetaReg: Alleviating Intra-task Discrepancy for Better Meta-knowledge/ \", IJCAI 20. CCF-A
 . *Pinzhuo Tian*, Zhangkai Wu, Lei Qi, Lei Wang, Yinghuan Shi, Yang Gao, \"/
 Differentiable Meta-Learning Model for Few-Shot Semantic Segmentation/ \", AAAI20. CCF-A
 . *Pinzhuo Tian*, Lei Qi, Yinghuan Shi, Luping Zhou, Yang Gao, Dinggang Shen, \" /
 A Novel Image-Specific Transfer Approach for Prostate Segmentation in MR Images/ \", ICASSP 18. CCF-B
 
-== Awards
-- 南京大学优秀毕业生 2021
-- 人工智能奖学金 2020
-- 南京大学优秀研究生 2020
-- AAAI travel award 2020
 
 == Address
 Room 415, Computer Science Building, Baoshan Campus, Shanghai University
