@@ -20,13 +20,21 @@ I'm interested in machine learning, representation learning and so on. Recently,
 == News
 - 请各位同学确定保研或考研录取资格以后，再邮件联系我。另外由于指导名额有限，请各位同学尽量提前与我联系，因时间有限并不会回复每一位同学，谢谢
 - 题组优势：紧跟最新前沿技术，会和学生进行良性互动，经常讨论和指导，有机器学习方面的实战项目以提升动手实践能力
-- \[2025\] TMM \*1 (多媒体领域顶级期刊，1区top, CCF-B类期刊), ICLR \*1 (机器学习三大会), CVPR \*1 (CCF-A类会议，计算机视觉顶级会议)
-- \[2024\] TCYB \*1 (人工智能领域顶级期刊，影响因子9.4，1区top), TOMM \*1 (ACM旗舰期刊，CCF-B类期刊), ICASSP \*1 (CCF-B类会议)
+- \[2025\] TMM \*2 (多媒体领域顶级期刊，1区top, CCF-B类期刊), ICLR \*1 (机器学习三大会), CVPR \*1 (CCF-A类会议，计算机视觉顶级会议)
+- \[2024\] TCYB \*1 (人工智能领域顶级期刊，影响因子9.4，1区top), TOMM \*1 (ACM旗舰期刊，CCF-B类期刊), ICASSP \*2 (CCF-B类会议), TST \*1 (1区)
 - \[2023\] TPAMI \*1 (计算机视觉领域顶级期刊，影响因子：20.8，1区top), AAAI23 \*1 (CCF A类会议), KBS  \*1（影响因子：7.2，1区top), Neurocomputing \*1 (2区), ACCV tutorial \*1 （联合南京大学计算机科学与技术系 [https://cs.nju.edu.cn/liwenbin/index.htm 李文斌]教授和人工智能学院 [http://www.lamda.nju.edu.cn/yehj/ 叶翰嘉]教授), 上海大学本科生学术论坛 三等奖
 - \[2022\] TMM \*1 (多媒体领域顶级期刊，影响因子：8.4，1区top), CGKD2022优秀学生论文奖（掼蛋AI）\*1, PRICAI \*1
 - \[2018-2021\] AAAI 20 \*1 (CCF A类会议)，IJCAI20 \*1 (CCF A类会议), TNNLS (人工智能领域顶级期刊，影响因子10.2，1区top), FCS (2区), ICASSP18 (CCF-B类会议)
 
 == Publications
+. *Pinzhuo Tian*, Shengjie Yang, Hang Yu, Alex C Kot, /Pay Attention to the Foreground in Object-Centric Learning/, CVPR 25
+. *Pinzhuo Tian*, Xiaojie Zhou, Hang Yu, Shaorong Xie, /High Specificity Guided Cross-Domain Few-Shot Segmentation/, IEEE Transactions on Multimedia, 2025
+. Yangtao Chen, Zixuan Chen, Junhui Yin, Jing Huo, *Pinzhuo Tian*, Jieqi Shi, Yang Gao, /GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulatio/, ICLR 25
+. Xiaojie Zhou, Hang Yu, Shengjie Yang, Jing Huo, *Pinzhuo Tian*, /Learning from Orthogonal Space with Multimodal Large Models for Generalized Few-shot Segmentation/, ACM Transactions on Multimedia Computing, Communications and Applications (ACM TOMM), 2025
+. Jing Huo, Shiyin Jin, Jiashen Li, *Pinzhuo Tian*, Wenbin Li, Jing Wu, Yukun Kai, Yang Gao, /Dictionary Based Generative Adversarial Network for Multi-Collection Style Transfer/, IEEE Transactions on Multimedia, 2025
+. Qiubo Ma, Hang Yu, Yuan Shan, *Pinzhuo Tian*, /Exploiting the Relationship within the Unlabelled Samples by Set Matching for Generalized Category Discovery/, ICASSP 25
+. Kai Chen, Ji Qi, Jing Huo, *Pinzhuo Tian*, Fanyu Meng, Xi Yang, Yang Gao, /A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models/, ICASSP 25
+. Zhiyi Fang, Zhuofeng Li, Qingyong Zhang, Changhua Xu, *Pinzhuo Tian*, Shaorong Xie, /Envisioning a Future Beyond Tomorrow with Script Event Stream Prediction/, tsinghua science and technology (TST), 2024
 . Zhenxing Ge, Shangdong Yang, *Pinzhuo Tian*, Zixuan Chen, Yang Gao,  /Modeling Rationality: Towards Better Performance Against Unknown Agents in Sequential Games/, IEEE Transactions on Cybernetics (TCYB), 2024
 . Linjian Meng, Zhenxing Ge, *Pinzhuo Tian*, Bo An, Yang Gao, /Deep FTRL-ORW: An Efficient Deep Reinforcement Learning Algorithm for Solving Imperfect Information Extensive-Form Games/, AAAI-23
 . *Pinzhuo Tian*, Hang Yu, /Can we improve meta-learning model in few-shot learning by aligning data distributions/. Knowledge-Based Systems (KBS), 2023
